@@ -1,0 +1,14 @@
+{
+  "name": "first-typscript",
+  "version": "1.0.0",
+  "description": "This is my first typeScript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Ikeson",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
